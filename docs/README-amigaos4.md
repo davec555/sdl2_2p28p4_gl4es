@@ -155,6 +155,7 @@ game controller database contains the following entries:
 - MAYFLASH Arcade Fightstick F300
 - Game Controller for Android
 - 2In1 USB Joystick
+- USB Gamepad
 
 Joysticks can be tested using testjoystick tool. New game controller mappings
 can be generated using controllermap tool. New mappings can be then added to
